@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The main goal was to analyze logs in Splunk and generate telemetry to mimic real-world attacks scenarios. This hands on experience has helped me Develope the understanding of SIEM tools like splunk, 
+The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The main goal was to analyze logs in Splunk and generate telemetry to mimic real-world attacks scenarios. This hands on experience has helped me Develop the understanding of SIEM tools like splunk, 
 
 ### Skills Learned
 
